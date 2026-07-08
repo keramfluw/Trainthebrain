@@ -113,7 +113,7 @@ if "trainers" not in st.session_state:
 st.markdown(
     """
     <div class="hero">
-      <div class="badge">Clever College · Aviation Training</div>
+      <div class="badge">CCData GmbH Aviation Academy · Aviation Training</div>
       <h1>Lehrgänge im Bereich Luftfahrt buchen</h1>
       <p>Eine digitale Akademie-Plattform für Endanwender, Unternehmen und Ausbilder: Kurse finden, Buchungsanfragen senden und Trainer-Verfügbarkeiten deutschlandweit strukturieren.</p>
     </div>
@@ -250,4 +250,4 @@ else:
         st.info("Noch keine Ausbilderdaten vorhanden.")
 
 st.markdown("---")
-st.caption("© Clever College Plattform-Prototyp · Fokus: Luftfahrt, Weiterbildung, Ausbildernetzwerk, Deutschland")
+st.caption("© CCData GmbH Aviation Academy-Prototyp · Fokus: Luftfahrt, Weiterbildung, Ausbildernetzwerk, Deutschland")
