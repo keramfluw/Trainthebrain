@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import date, time
 
 st.set_page_config(
-    page_title="CCData GmbH Aviation Academy",
+    page_title="Clever College & CCData GmbH Aviation Academy",
     page_icon="✈️",
     layout="wide",
     initial_sidebar_state="expanded",
